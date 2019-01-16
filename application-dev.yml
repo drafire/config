@@ -2,3 +2,8 @@
 server:
   servlet:
    context-path: dev
+
+db:
+   url: http
+   username: dev
+   password: abce
