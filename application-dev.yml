@@ -1,0 +1,4 @@
+#声明配置的名称，是用这个,而不是server.servlet-path
+server:
+  servlet:
+   context-path: dev
